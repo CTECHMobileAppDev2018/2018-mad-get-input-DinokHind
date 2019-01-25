@@ -8,7 +8,7 @@ public class AddInput {
         // The variable "args" is called an "array" because it's actually a list of items
         // If you good "How to get the number of items in an array in Java", you should be able to figure out how many integers there are in the variable "args"
         // int num_args = ???
-        // if (??? != 2) {
+        // if (num_args != 2) {
         //    do something
         // }
         // More advanced: What if the two inputs aren't integers? Then what? How cold you check that?
