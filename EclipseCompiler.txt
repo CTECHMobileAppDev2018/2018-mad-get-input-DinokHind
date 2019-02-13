@@ -1,0 +1,59 @@
+13 Feb 2019 22:04:32 GMT: Log 'EclipseCompiler.txt' opened: 13 Feb 2019 22:04:32 GMT with name C:\Users\death\Documents\GitHub\2018-mad-get-input-DinokHind\EclipseCompiler.txt
+13 Feb 2019 22:04:45 GMT: diagnostics = javax.tools.DiagnosticCollector@34e916b
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@39bc3c75
+fileObjects = [C:\Users\death\Documents\GitHub\2018-mad-get-input-DinokHind\AddInput.java]
+13 Feb 2019 22:04:45 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@20445e12' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\death\Documents\GitHub\2018-mad-get-input-DinokHind;C:\Users\death\Documents\drjava-beta-20160913-225446.exe]
+13 Feb 2019 22:04:45 GMT: Compiler call returned
+13 Feb 2019 22:11:25 GMT: diagnostics = javax.tools.DiagnosticCollector@36929a8e
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@3c786b35
+fileObjects = [C:\Users\death\Documents\GitHub\2018-mad-get-input-DinokHind\AddInput.java]
+13 Feb 2019 22:11:25 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@3880d5c4' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\death\Documents\GitHub\2018-mad-get-input-DinokHind;C:\Users\death\Documents\drjava-beta-20160913-225446.exe]
+13 Feb 2019 22:11:25 GMT: Compiler call returned
+13 Feb 2019 22:57:48 GMT: diagnostics = javax.tools.DiagnosticCollector@33fe27ac
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@7070752c
+fileObjects = [C:\Users\death\Documents\GitHub\2018-mad-get-input-DinokHind\AddInput.java]
+13 Feb 2019 22:57:48 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@7d5cd665' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\death\Documents\GitHub\2018-mad-get-input-DinokHind;C:\Users\death\Documents\drjava-beta-20160913-225446.exe]
+13 Feb 2019 22:57:48 GMT: Compiler call returned
+13 Feb 2019 22:57:48 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@61239e8c
+13 Feb 2019 22:57:48 GMT:  Kind = ERROR
+13 Feb 2019 22:57:48 GMT: Name = C:\Users\death\Documents\GitHub\2018-mad-get-input-DinokHind\AddInput.java LineNo = 15 ColNo = 9 Msg = 'Syntax error on token "if", delete this token'
+13 Feb 2019 22:57:54 GMT: diagnostics = javax.tools.DiagnosticCollector@59abd407
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@6d5f332f
+fileObjects = [C:\Users\death\Documents\GitHub\2018-mad-get-input-DinokHind\AddInput.java]
+13 Feb 2019 22:57:54 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@5047dc1a' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\death\Documents\GitHub\2018-mad-get-input-DinokHind;C:\Users\death\Documents\drjava-beta-20160913-225446.exe]
+13 Feb 2019 22:57:54 GMT: Compiler call returned
+13 Feb 2019 23:01:12 GMT: diagnostics = javax.tools.DiagnosticCollector@4eeda484
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@2f225746
+fileObjects = [C:\Users\death\Documents\GitHub\2018-mad-get-input-DinokHind\AddInput.java]
+13 Feb 2019 23:01:12 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@7843bd8d' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\death\Documents\GitHub\2018-mad-get-input-DinokHind;C:\Users\death\Documents\drjava-beta-20160913-225446.exe]
+13 Feb 2019 23:01:12 GMT: Compiler call returned
+13 Feb 2019 23:22:47 GMT: diagnostics = javax.tools.DiagnosticCollector@5165e5bf
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@245cd6c2
+fileObjects = [C:\Users\death\Documents\GitHub\2018-mad-get-input-DinokHind\AddInput.java]
+13 Feb 2019 23:22:47 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@3ade2e23' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\death\Documents\GitHub\2018-mad-get-input-DinokHind;C:\Users\death\Documents\drjava-beta-20160913-225446.exe]
+13 Feb 2019 23:22:47 GMT: Compiler call returned
+13 Feb 2019 23:22:47 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6e853cc8
+13 Feb 2019 23:22:47 GMT:  Kind = ERROR
+13 Feb 2019 23:22:47 GMT: Name = C:\Users\death\Documents\GitHub\2018-mad-get-input-DinokHind\AddInput.java LineNo = 10 ColNo = 24 Msg = 'Syntax error on tokens, delete these tokens'
+13 Feb 2019 23:22:47 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b9276ac
+13 Feb 2019 23:22:47 GMT:  Kind = ERROR
+13 Feb 2019 23:22:47 GMT: Name = C:\Users\death\Documents\GitHub\2018-mad-get-input-DinokHind\AddInput.java LineNo = 11 ColNo = 26 Msg = 'Syntax error, insert ";" to complete BlockStatements'
+13 Feb 2019 23:22:47 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@76a6d618
+13 Feb 2019 23:22:47 GMT:  Kind = ERROR
+13 Feb 2019 23:22:47 GMT: Name = C:\Users\death\Documents\GitHub\2018-mad-get-input-DinokHind\AddInput.java LineNo = 13 ColNo = 11 Msg = 'Syntax error on token "else", delete this token'
+13 Feb 2019 23:23:03 GMT: diagnostics = javax.tools.DiagnosticCollector@14237458
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@37be8038
+fileObjects = [C:\Users\death\Documents\GitHub\2018-mad-get-input-DinokHind\AddInput.java]
+13 Feb 2019 23:23:03 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@4cff39ae' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\death\Documents\GitHub\2018-mad-get-input-DinokHind;C:\Users\death\Documents\drjava-beta-20160913-225446.exe]
+13 Feb 2019 23:23:03 GMT: Compiler call returned
+13 Feb 2019 23:23:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4645750f
+13 Feb 2019 23:23:03 GMT:  Kind = ERROR
+13 Feb 2019 23:23:03 GMT: Name = C:\Users\death\Documents\GitHub\2018-mad-get-input-DinokHind\AddInput.java LineNo = 10 ColNo = 29 Msg = 'Syntax error, insert ":: IdentifierOrNew" to complete ReferenceExpression'
+13 Feb 2019 23:23:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4ab0df68
+13 Feb 2019 23:23:03 GMT:  Kind = ERROR
+13 Feb 2019 23:23:03 GMT: Name = C:\Users\death\Documents\GitHub\2018-mad-get-input-DinokHind\AddInput.java LineNo = 10 ColNo = 29 Msg = 'Syntax error, insert ";" to complete BlockStatements'
+13 Feb 2019 23:23:10 GMT: diagnostics = javax.tools.DiagnosticCollector@58f26010
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@80f6d4d
+fileObjects = [C:\Users\death\Documents\GitHub\2018-mad-get-input-DinokHind\AddInput.java]
+13 Feb 2019 23:23:10 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@2b76da2' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\death\Documents\GitHub\2018-mad-get-input-DinokHind;C:\Users\death\Documents\drjava-beta-20160913-225446.exe]
+13 Feb 2019 23:23:10 GMT: Compiler call returned
